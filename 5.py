@@ -1,2 +1,2 @@
-nota_final = 35
+nota_final = 8.5
 print(nota_final)
